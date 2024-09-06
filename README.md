@@ -50,6 +50,14 @@ The Coffee Sales Dashboard is a continuously evolving project. Future enhancemen
 - **User feedback**: Incorporate suggestions to improve usability and functionality.
 - **Additional features**: Expand the dashboard to include more comprehensive analyses and capabilities.
 
+  
+- ## Contact
 I welcome contributions and suggestions to help refine and enhance the dashboard!
+- **LinkedIn:** [Aakanksha Pardeep](https://www.linkedin.com/in/aakankshapardeep/)
+- **Email:** akankshalanghani13@gmail.com
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 Happy analyzing, and here’s to brewing success with your Coffee Sales Dashboard! ☕📊
